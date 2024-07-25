@@ -1,4 +1,0 @@
-baseURL = 'https://owenoliver1.github.io/dmbc/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = ["PaperMod"]
