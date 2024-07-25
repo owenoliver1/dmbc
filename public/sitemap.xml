@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dmbc/categories/</loc>
+    <loc>https://owenoliver1.github.io/dmbc/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/dmbc/docs/</loc>
+    <loc>https://owenoliver1.github.io/dmbc/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/dmbc/</loc>
+    <loc>https://owenoliver1.github.io/dmbc/</loc>
   </url><url>
-    <loc>http://localhost:1313/dmbc/tags/</loc>
+    <loc>https://owenoliver1.github.io/dmbc/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/dmbc/docs/test/</loc>
+    <loc>https://owenoliver1.github.io/dmbc/docs/test/</loc>
   </url>
 </urlset>
